@@ -5,8 +5,8 @@
     <description>YUNNIM BLOG</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Jun 2020 13:59:49 +0900</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2020 13:59:49 +0900</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2020 20:36:03 +0900</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2020 20:36:03 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -20,11 +20,43 @@
         
           <item>
             <title>About</title>
-            <description>&lt;p&gt;You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.&lt;/p&gt;
+            <description>&lt;h1 id=&quot;yunseo-jeong&quot;&gt;Yunseo Jeong&lt;/h1&gt;
 
-&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Busan                              jys5440@gmail.com
+Geumjeong-gu                            @greenteeyun
+Korea, Republic of                     in instargram
+——————-     —————————-&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;2019 ~&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;Bachelor of Engineering, Computer Engineering&lt;/strong&gt;; Pusan National University (Busan)&lt;/dd&gt;
+  &lt;dt&gt;2018 ~ 2019&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;Best of the Best, 7th&lt;/strong&gt;;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;award&quot;&gt;Award&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;2017&lt;/dt&gt;
+  &lt;dd&gt;육군 해킹방어대회 1st (2p team)&lt;/dd&gt;
+  &lt;dt&gt;2018&lt;/dt&gt;
+  &lt;dd&gt;CodeGate Junior Finalist&lt;/dd&gt;
+  &lt;dd&gt;국방 사이버안보 콘테스트 2nd, 윤성권1인팀&lt;/dd&gt;
+  &lt;dd&gt;Harekaze CTF 3nd, SeoulWesterns&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;studying&quot;&gt;Studying&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;C/C++&lt;/li&gt;
+  &lt;li&gt;Reversing Engineering&lt;/li&gt;
+  &lt;li&gt;Vulnerability Analysis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;experience&quot;&gt;Experience&lt;/h2&gt;
+
 </description>
             <link>http://localhost:4000/about.html</link>
           </item>
