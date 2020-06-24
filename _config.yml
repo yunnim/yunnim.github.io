@@ -11,10 +11,8 @@ email:       'jys5440@gmail.com'
 description: 'YUNNIM BLOG'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://yunnim.github.io/' # The base hostname & protocol for your site
-# twitter:     ''
 github:      'https://github.com/yunnim'
 instagram:   'https://instagram.com/greenteayun/'
-# facebook:    ''
 
 markdown:  kramdown
 permalink: pretty
