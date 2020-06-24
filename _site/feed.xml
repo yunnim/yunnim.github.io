@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YUNNIM</title>
+    <description>YUNNIM BLOG</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 22 Jun 2020 13:59:49 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2020 13:59:49 +0900</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>About</title>
+            <description>&lt;p&gt;You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.&lt;/p&gt;
+
+&lt;p&gt;This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyllrb.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/about.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Style Guide</title>
+            <description>At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
+
+Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana.
+
+---
+
+# Simple default styles for headings
+
+## Simple default styles for headings
+
+### Simple default styles for headings
+
+#### Simple default styles for headings
+
+##### Simple default styles for headings
+
+###### Simple default styles for headings
+
+---
+
+* Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
+* Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor.
+* Donec nibh massa, rutrum a sollicitudin eu, lacinia in lorem.
+
+---
+
+1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
+2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in.
+3. Donec nibh massa, rutrum a sollicitudin eu.
+
+---
+
+&gt; Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana
+
+---
+
+{% highlight js %}
+'use strict';
+var markdown = require('markdown').markdown;
+function Editor(input, preview) {
+  this.update = function() {
+    preview.innerHTML = markdown.toHTML(input.value);
+  };
+  input.editor = this;
+  this.update();
+}
+{% endhighlight %}
+
+You can add inline code just like this, E.g. `.code { color: #fff; }`
+
+{% highlight css %}
+pre {
+  background-color: #f4f4f4;
+  max-width: 100%;
+  overflow: auto;
+}
+{% endhighlight %}
+
+---
+
+Cras sed sodales enim. Duis nec erat magna. Sed scelerisque pretium mi et [unsplash](https://unsplash.com/) ullamcorper mauris aliquam ornare fringilla. In luctus commodo quam eget posuere.
+
+---
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/97202679&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+&lt;iframe src=&quot;https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+---
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29738591&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
+---
+
+&lt;p data-height=&quot;265&quot; data-theme-id=&quot;light&quot; data-slug-hash=&quot;YWvpRo&quot; data-default-tab=&quot;css,result&quot; data-user=&quot;kharrop&quot; data-embed-version=&quot;2&quot; data-pen-title=&quot;Referral Form&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/kharrop/pen/YWvpRo/&quot;&gt;Referral Form&lt;/a&gt; by Kelly Harrop (&lt;a href=&quot;http://codepen.io/kharrop&quot;&gt;@kharrop&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&quot;https://production-assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+---
+
+![about](/images/pages/about.jpeg)
+
+---
+
+&lt;input type=&quot;text&quot; placeholder=&quot;I'm an input field!&quot;&gt;
+
+---
+
+&lt;button class='c-btn c-btn--small'&gt;Button&lt;/button&gt;
+
+&lt;button class='c-btn'&gt;Button&lt;/button&gt;
+
+&lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
+
+{% highlight html %}
+&lt;button class='c-btn c-btn--small'&gt;Button&lt;/button&gt;
+&lt;button class='c-btn'&gt;Button&lt;/button&gt;
+&lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
+{% endhighlight %}
+</description>
+            <link>http://localhost:4000/style-guide.html</link>
+          </item>
+        
+      
+    
+
+  </channel>
+</rss>
