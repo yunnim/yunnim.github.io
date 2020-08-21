@@ -7,7 +7,7 @@
 
 # Site settings
 title:       YUN
-email:       'greenteayun@gmail.com'
+email:       '9reenteayun@gmail.com'
 description: 'YUNSEO BLOG'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://greanteayun.github.io/' # The base hostname & protocol for your site
