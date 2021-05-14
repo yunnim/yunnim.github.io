@@ -36,9 +36,10 @@ GEM
       nuggets
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.1.0)
+    kramdown (2.3.1)
+      rexml
     kramdown-parser-gfm (1.1.0)
-      kramdown (~> 2.1.0)
+      kramdown (~> 2.0)
     liquid (4.0.3)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -51,6 +52,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    rexml (3.1.9)
     rouge (3.14.0)
     safe_yaml (1.0.5)
     sassc (2.2.1)
@@ -60,7 +62,7 @@ GEM
     unicode-display_width (1.6.0)
 
 PLATFORMS
-  ruby
+  universal-darwin-19
 
 DEPENDENCIES
   bundler
@@ -69,4 +71,4 @@ DEPENDENCIES
   jekyll-tagging
 
 BUNDLED WITH
-   1.17.3
+   2.2.17
